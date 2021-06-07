@@ -1,0 +1,23 @@
+.main{
+    text-align: center;
+}
+.naslov{
+    background-image: url("./resources/asd1.jpg");
+    background-repeat: no-repeat;
+    background-size: 100%;
+    text-align: center !important;
+    color:white;
+    height:17vh;
+    width:100%;
+}
+
+.naslov1{
+    font-weight: bold;
+    font-size: 50px;
+    text-align: center !important;
+    color:white;
+}
+.naslov2{
+    font-weight: bold;
+    font-size: xx-large;
+}
